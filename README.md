@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SahilBtara
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning springboot and react
+- 🌱 I’m currently working as a Backend Developer primarily working on Java.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me on LinkedIn :- https://www.linkedin.com/in/sahil-batra-6ba92b11a/ 
 
